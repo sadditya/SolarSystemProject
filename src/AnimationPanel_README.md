@@ -16,7 +16,7 @@ The `AnimationPanel` class is responsible for rendering and animating the solar 
 - Calculate rendering positions
 - Handle screen refresh
 - Manage visual effects (colors, sizes, trails)
-
+    
 ## Graphics Features (Typical)
 - **Planet Rendering**: Draw planets with appropriate sizes and colors
 - **Orbital Paths**: Display planet trajectories
