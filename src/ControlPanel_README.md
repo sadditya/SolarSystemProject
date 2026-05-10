@@ -15,6 +15,7 @@ The `ControlPanel` class provides the user interface for controlling and managin
 - **Labels/Displays**: Show current simulation state
 - **Selection Controls**: Choose planets or viewing modes
 
+
 ## Responsibilities
 - Capture user input
 - Update simulation parameters
